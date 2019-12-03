@@ -202,7 +202,7 @@ a:hover {
 }
 
 .about-me {
-  padding: 3rem 1.25rem;
+  padding: 2rem 1.25rem;
   position: relative;
   margin-bottom: 3rem;
   z-index: 2;
@@ -274,6 +274,11 @@ a:hover {
 }
 
 /*------/ Ico Circle /------*/
+.soc {
+  padding-left: 5px;
+  padding-right: 5px;
+
+}
 
 .ico-circle {
   height: 100px;
@@ -695,11 +700,11 @@ a:hover {
 
 .about-mf .box-shadow-full {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 0rem;
 }
 
 .about-mf .about-img {
-  margin-bottom: 2rem;
+  margin-bottom: 5rem;
 }
 
 .about-mf .about-img img {
