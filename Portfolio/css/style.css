@@ -812,6 +812,7 @@ a:hover {
 
 }
 
+
 .w-more {
   padding-bottom: 10px;
 }
@@ -869,6 +870,17 @@ a:hover {
   font-size: 1.2rem;
   text-decoration: underline;
 }
+
+.col-sm-10 {
+  width: auto !important;
+
+}
+
+.col-sm-2 {
+  width: auto !important;
+  position: absolute;
+  right: 20px;
+  }
 
 
 
